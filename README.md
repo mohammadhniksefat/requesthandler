@@ -110,6 +110,8 @@ Response 3:
 ...
 ```
 
+## Logs
+
 ``` bash
 2025-10-01 15:58:02,765 Creating a new instance of RequestHandler
 2025-10-01 15:58:02,766 Starting configure()
