@@ -25,7 +25,7 @@ pip install requesthandler-1.0.0-py3-none-any.whl
 Or clone the repository and install manually:
 ```bash
 git clone https://github.com/mohammadhniksefat/requesthandler.git
-cd request-handler
+cd requesthandler
 pip install .
 ```
 
