@@ -33,11 +33,11 @@ pip install .
 
 ## ⚡ Use Cases
 
-Web scraping with controlled delays
+- Web scraping with controlled delays
 
-Crawler systems with queue management
+- Crawler systems with queue management
 
-API clients needing resilience & throttling
+- API clients needing resilience & throttling
 
 ---
 
